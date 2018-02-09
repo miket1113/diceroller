@@ -12,8 +12,8 @@ choose amount of rolls needed
 ####	#######  #######
 #   #	   #	    #
 ####       #	    #
-#	#      #        #
-#	 #  #######     #
+#   #      #        #
+#    #  #######     #
 """
 
 import random
